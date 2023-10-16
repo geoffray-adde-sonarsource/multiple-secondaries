@@ -1,0 +1,20 @@
+[
+    {
+        "directory": "/Users/geoffray/code/tests/multiple-secondaries",
+        "arguments": [
+            "/usr/bin/g++",
+            "-c",
+            "./issue1.cpp"
+        ],
+        "file": "/Users/geoffray/code/tests/multiple-secondaries/issue1.cpp"
+    },
+    {
+        "directory": "/Users/geoffray/code/tests/multiple-secondaries",
+        "arguments": [
+            "/usr/bin/g++",
+            "-c",
+            "./issue2.cpp"
+        ],
+        "file": "/Users/geoffray/code/tests/multiple-secondaries/issue2.cpp"
+    }
+]
