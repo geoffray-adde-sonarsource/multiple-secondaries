@@ -1,5 +1,5 @@
 #define issue_with_all_indexed_secondaries
-#define issue_with_some_unindexed_secondaries
+//#define issue_with_some_unindexed_secondaries
 
 #ifdef issue_with_all_indexed_secondaries
 #include "header1.h"
