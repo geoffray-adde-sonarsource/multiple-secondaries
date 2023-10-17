@@ -26,6 +26,3 @@ int g(int n, int p) {
     }
 }
 #endif
-
-
-

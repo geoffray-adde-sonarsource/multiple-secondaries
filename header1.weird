@@ -1,0 +1,15 @@
+#pragma once
+#include "header2.h"
+
+int g1(int n, int p) {
+    if(p!=n) {
+        return g2a(n,p);
+    }
+    else {
+        return g2b(n);
+    }
+}
+
+int gg(int i) {
+    return i;
+}

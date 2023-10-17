@@ -9,3 +9,11 @@ int f1(int n, int p) {
         return f2b(n);
     }
 }
+
+int ff(int i) {
+    if(i==0) {
+        return i;
+    } else {
+        return i+1;
+    }
+}
