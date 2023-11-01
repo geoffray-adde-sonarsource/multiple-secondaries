@@ -17,3 +17,7 @@ int ff(int i) {
         return i+1;
     }
 }
+
+int div(int a, int b) {
+    return a/b;
+}

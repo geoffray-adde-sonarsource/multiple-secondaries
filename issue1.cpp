@@ -12,6 +12,10 @@ int f(int n, int p) {
         return 0;
     }
 }
+
+int div0by0() {
+    return div(0,0);
+}
 #endif
 
 #ifdef issue_with_some_unindexed_secondaries
